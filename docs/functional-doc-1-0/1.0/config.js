@@ -1,6 +1,6 @@
 var respecConfig = {
   // => https://github.com/stichting-crow/respec/wiki
-  specStatus: "IR",
+  specStatus: "DRAFT",
   shortName: "imwo/functional-doc-1-0",
   specType: "Functionele documentatie", // vrije tekst, kleine letter
   imprint: "digigo",
