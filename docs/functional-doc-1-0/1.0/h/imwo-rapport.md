@@ -11,24 +11,44 @@ De ketenpartners die in het Bestuursakkoord Digitale Gebouwde Omgeving afspraken
 | Robert Versteeg         | digiGO                                     | Projectleider        |
 | Hein Corstens           | digiGO                                     | Informatiemodelleur  |
 | Martijn van Glabbeek    | digiGO                                     | Product Owner GEBORA |
-| Paul Strokap            | Neprom                                     |                      |
-| Henk Nijstad            | Aedes                                      |                      |
-| Willem Pel              | Ketenstandaard                             |                      |
-| Gert Koutstaal          | Ketenstandaard                             |                      |
-| Ruud Kathmann           | Waarderingskamer                           |                      |
-| Rolf Jonker             | Geonovum / gemeente Rotterdam              |                      |
-| Wiechert Eschbach       | Windesheim                                 |                      |
-| Gerlof de Haan          | Vereniging van Nederlandse Gemeenten (VNG) |                      |
-| Marco Witschge          | Techniek Nederland                         |                      |
-| Jan Brinkkemper         | Aedes                                      |                      |
-| Aydemir Çetin           | NL Ingenieurs / BuildingSmart              |                      |
-| Joppe Duindam           | Bouwend Nederland                          |                      |
-| Daniël Carree           | Rijksvastgoedbedrijf                       |                      |
-| Jan Hendrik Nieuwenhuis | Rijksvastgoedbedrijf                       |                      |
-| Martijn Nijkamp         | BNA                                        |                      |
-| Jeroen Pat              | Bouwend Nederland                          |                      |
+| Paul Strokap            | Neprom                                     | Projectgroeplid      |
+| Henk Nijstad            | Aedes                                      | Projectgroeplid      |
+| Willem Pel              | Ketenstandaard                             | Projectgroeplid      |
+| Gert Koutstaal          | Ketenstandaard                             | Projectgroeplid      |
+| Ruud Kathmann           | Waarderingskamer                           | Projectgroeplid      |
+| Rolf Jonker             | Geonovum / gemeente Rotterdam              | Projectgroeplid      |
+| Wiechert Eschbach       | Windesheim Hogeschool                      | Projectgroeplid      |
+| Gerlof de Haan          | Vereniging van Nederlandse Gemeenten (VNG) | Projectgroeplid      |
+| Marco Witschge          | Techniek Nederland                         | Projectgroeplid      |
+| Jan Brinkkemper         | Aedes                                      | Projectgroeplid      |
+| Aydemir Çetin           | NL Ingenieurs / BuildingSmart              | Projectgroeplid      |
+| Daniël Carree           | Rijksvastgoedbedrijf                       | Projectgroeplid      |
+| Jan Hendrik Nieuwenhuis | Rijksvastgoedbedrijf                       | Projectgroeplid      |
+| Jeroen Pat              | Techniek Nederland                         | Projectgroeplid      |
+| Martijn Nijkamp         | BNA                                        | Stuurgroeplid        |
+| Joppe Duindam           | Bouwend Nederland                          | Stuurgroeplid        |
+| Alfred Boersma          | Rijksvastgoedbedrijf                       | Stuurgroeplid        |
+| Jonathan Bosman         | Ministerie van Binnenlandse Zaken          | Stuurgroeplid        |
+| Remco van der Linden    | Techniek Nederland                         | Stuurgroeplid        |
+| Remco van der Linden    | Techniek Nederland                         | Stuurgroeplid        |
+| Maurits Cammeraat       | digiGO                                     | Stuurgroeplid        |
+| Roger Tan               | digiGO                                     | Stuurgroeplid        |
+| Theo Peters             | Vereniging van Nederlandse Gemeenten (VNG) | Stuurgroeplid        |
+| Bart Molmans            | Techniek Nederland                         | Klankbordgroeplid    |
+| Bob Spitz               | V-OA Architecten                           | Klankbordgroeplid    |
+| Chandro Kandiah         | Ictu                                       | Klankbordgroeplid    |
+| Fatih Cingir            | NEN                                        | Klankbordgroeplid    |
+| Marcel de Meulmeester   | Rijksvastgoedbedrijf                       | Klankbordgroeplid    |
+| Oeds de Meer            | SBB Ontwikkelen en Bouwen                  | Klankbordgroeplid    |
+| Pim van Meer            | Neprom                                     | Klankbordgroeplid    |
+| Paul Oude Luttighuis    | Ministerie van Binnenlandse Zaken          | Klankbordgroeplid    |
+| Jan Pieter Redert       | NWWI                                       | Klankbordgroeplid    |
+| Bert Beentjes           | Kadaster                                   | Klankbordgroeplid    |
+| Thies Mesdag            | Kadaster                                   | Klankbordgroeplid    |
 
-Ontologische ondersteuning: Marcel Krassenburg - MKidee
+
+
+Ontologische ondersteuning: Marcel Krassenburg
 
 ### Doel
 
