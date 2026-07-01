@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.83cm" height="11.14cm" viewBox="0 0 825 421">
+<title></title>
+<desc>Created with Enterprise Architect (Build: 1716) 2</desc>
+
+<g style="fill:#FFFFFF;fill-opacity:1.00;">
+	 <rect x="0" y="0" width="825" height="421" shape-rendering="auto"/>
+</g><g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:0.00; stroke:#000000; stroke-opacity:1.00;">
+  <path d="M 6 6 L 6 415 L 819 415 L 819 6 L 6 6" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#FFFFFF;fill-opacity:1.00; stroke:#000000; stroke-opacity:1.00;">
+  <polygon points="6 26 81 26 94 12 94 6 6 6 6 26" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="11.00" y="19.00" textLength="68" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:10px; fill:#000000;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 11.00 19.00)">class NEN2660-2</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="35" y="160" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="78.00" y="181.00" textLength="44" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 78.00 181.00)">Materie</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="185" y="160" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="216.00" y="181.00" textLength="68" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 216.00 181.00)">Reëel object</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="335" y="160" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="352.00" y="181.00" textLength="95" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 352.00 181.00)">Ruimtelijk gebied</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="485" y="160" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="498.00" y="181.00" textLength="104" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 498.00 181.00)">Technische entiteit</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="335" y="249" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="377.00" y="270.00" textLength="46" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 377.00 270.00)">Raakvlak</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="35" y="249" width="130" height="50" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="65.00" y="270.00" textLength="69" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 65.00 270.00)">Hoeveelheid</text>
+	<text x="66.00" y="285.00" textLength="67" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 66.00 285.00)">bulkmaterie</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="35" y="350" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="59.00" y="371.00" textLength="82" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 59.00 371.00)">Discreet object</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="645" y="160" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="661.00" y="181.00" textLength="97" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 661.00 181.00)">Geplande entiteit</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="485" y="249" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="495.00" y="270.00" textLength="109" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 495.00 270.00)">Functionele entiteit</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="645" y="249" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="649.00" y="270.00" textLength="122" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 649.00 270.00)">Gerealiseerde entiteit</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="185" y="40" width="130" height="38" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="277.00" y="55.00" textLength="35" style="font-family:Calibri; font-weight:700; font-style:italic; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 277.00 55.00)">Object</text>
+	<text x="215.00" y="73.00" textLength="70" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 215.00 73.00)">Fysiek object</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#CBEAF6;fill-opacity:1.00; stroke:#9A8484; stroke-opacity:1.00;">
+ <rect x="575" y="40" width="114" height="39" rx="0.00" shape-rendering="auto"  />
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00;">
+	<text x="593.00" y="55.00" textLength="93" style="font-family:Calibri; font-weight:700; font-style:italic; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 593.00 55.00)">Concreet concept</text>
+	<text x="611.00" y="73.00" textLength="41" style="font-family:Calibri; font-weight:700; font-style:normal; font-size:13px; fill:#595959;fill-opacity:1.00; stroke:#000000; stroke-opacity:0.00; stroke-width:0; white-space: pre;" xml:space="preserve" transform="rotate(-0.00 611.00 73.00)">Entiteit</text>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00;">
+  <path d="M 100 160 L 100 128 L 250 128 L 250 78" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#69738C; stroke-opacity:1.00;">
+  <polygon points="256 94 244 94 250 78" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00;">
+  <path d="M 250 160 L 250 128 M 250 78" shape-rendering="auto"/>
+  <path d="M 399 160 L 399 128 L 250 128 M 250 78" shape-rendering="auto"/>
+  <path d="M 615 179 L 632 179 M 632 79" shape-rendering="auto"/>
+  <path d="M 400 249 L 400 198" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#69738C; stroke-opacity:1.00;">
+  <polygon points="406 214 394 214 400 198" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00;">
+  <path d="M 165 274 L 250 274 M 250 198" shape-rendering="auto"/>
+  <path d="M 165 369 L 250 369 L 250 198" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#69738C; stroke-opacity:1.00;">
+  <polygon points="256 214 244 214 250 198" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00;">
+  <path d="M 645 179 L 632 179 M 632 79" shape-rendering="auto"/>
+  <path d="M 615 268 L 632 268 L 632 79" shape-rendering="auto"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#FAF1EC;fill-opacity:1.00; stroke:#69738C; stroke-opacity:1.00;">
+  <polygon points="638 95 626 95 632 79" shape-rendering="auto"   style="fill-rule:evenodd;"/>
+</g>
+<g style="stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel; fill:#000000;fill-opacity:0.00; stroke:#69738C; stroke-opacity:1.00;">
+  <path d="M 645 268 L 632 268 M 632 79" shape-rendering="auto"/>
+</g>
+</svg>
