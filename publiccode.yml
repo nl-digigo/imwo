@@ -1,0 +1,69 @@
+# This repository adheres to the publiccode.yml standard by including this
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/publiccodeyml/publiccode.yml
+publiccodeYmlVersion: "0.5"
+
+# De korte, herkenbare naam van het project
+name: Conceptueel Informatiemodel Woongebouwen (IMWO)
+
+# De URL naar de broncode op GitHub
+url: "https://github.com/nl-digigo/imwo"
+
+# De URL naar de documentatie of productieomgeving
+landingURL: "https://nl-digigo.github.io/imwo/functional-doc-1-0/1.0/h/v1/imwo-rapport.html"
+
+# Type software: standalone/other is hier het meest passend, aangezien het een informatiemodel betreft
+softwareType: standalone/other
+
+# Platformen waarop het model/data-platform wordt gebruikt
+platforms:
+  - web
+
+# Relevante categorieën op basis van de publiccode specificaties
+categories:
+  - knowledge-management
+  - it-development
+  - property-management
+  - it-asset-management
+
+# Ontwikkelstatus: Versie 1.0 is officieel als 'Final' uitgebracht
+developmentStatus: stable
+
+description:
+  nl:
+    shortDescription: >
+      Conceptueel informatiemodel van digiGO voor eenduidige data-uitwisseling en semantische interoperabiliteit rondom woningen en woongebouwen.
+    longDescription: >
+      Het digiGO Informatiemodel Woongebouwen (IMWO) is een conceptueel informatiemodel dat een brug slaat tussen de eigen architecturen en definities van verschillende ketenpartners in de bouw- en vastgoedsector. Het dient als referentiemodel (canoniek model) om de betekenis en de structuur van relevante informatie over woningen en woongebouwen te beschrijven. Dit bevordert de semantische interoperabiliteit, vermindert spraakverwarring tussen de circa 60 verschillende informatiestandaarden in de sector, en maakt efficiënte data-uitwisseling en hergebruik mogelijk binnen het Digitaal Stelsel Gebouwde Omgeving (DSGO).
+    features:
+      - Conceptueel informatiemodel voor woningen en woongebouwen
+      - Geïntegreerd in de GEBouwde Omgeving Referentie Architectuur (GEBORA)
+      - Ondersteuning voor Linked Data (RDF/SKOS Turtle-representatie)
+      - Sluit aan op nationale en internationale standaarden (NEN 2660, NEN 3610, IFC, CityGML)
+
+legal:
+  # Licentie op basis van de GitHub repository van nl-digigo
+  license: CC-BY-4.0
+  mainCopyrightOwner: Stichting digiGO
+  countries:
+    - NL
+  scope:
+    - government
+
+localisation:
+  availableLanguages:
+    - nl
+  localisationReady: false
+
+maintenance:
+  # Het beheer is intern belegd (overgedragen aan het GEBORA beheerteam binnen digiGO)
+  type: internal
+  contacts:
+    - name: Martijn van Glabbeek
+      email: martijn.vanglabbeek@digigo.nu
+      affiliation: Stichting digiGO
+      phone: "+31611034147"
+    - name: Robert Versteeg
+      email: robert.versteeg@digigo.nu
+      affiliation: Stichting digiGO
+      phone: "+31627322464"
